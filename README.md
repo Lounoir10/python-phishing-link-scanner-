@@ -14,5 +14,4 @@ The program checks URLs for basic phishing warning signs using conditional state
 ## Limitations
 This is a basic educational project, not a complete phishing detection system. A URL that passes these checks is not necessarily safe.
 
-## Author
-Praise Amos
+
